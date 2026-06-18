@@ -1,6 +1,9 @@
 # 🌐 Sevda Portfolio
-
 A modern and responsive personal portfolio website built with HTML, CSS, and JavaScript.
+
+## 🌐 Live Demo
+
+https://sevdaguliyeva.github.io/sevda-portfolio/
 
 ## ✨ Features
 
